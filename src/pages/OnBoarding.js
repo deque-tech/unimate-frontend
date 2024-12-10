@@ -252,7 +252,7 @@ const OnBoarding = () => {
 
             <section>
               <label htmlFor="funPrompt1">
-                What’s your go-to karaoke song?
+                What’s one thing you're currently grateful for?
               </label>
               <input
                 type="text"
@@ -268,7 +268,7 @@ const OnBoarding = () => {
 
             <section>
               <label htmlFor="funPrompt2">
-                If you could have any superpower, what would it be?
+                What’s one thing you’ve done recently that you’re proud of?
               </label>
               <input
                 type="text"
