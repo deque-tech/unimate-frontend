@@ -271,6 +271,10 @@ nav .logo-container .logo{
     height: 100vh;
 }
 
+.dashboard .swipe-container p {
+    color: rgb(56, 16, 104);
+}
+
 .swipe {
     position: absolute;
 }
