@@ -282,7 +282,7 @@ const Dashboard = () => {
                                 </TinderCard> 
                             ))}
                            
-                             <div className="instructions">
+                             <div className="swipe-info">
                                 {lastDirection ? <p>You swiped {lastDirection}</p> : <p/>}
                              </div>
                         </div>
