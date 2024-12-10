@@ -237,6 +237,7 @@ const Dashboard = () => {
                     {/*    </div>*/}
                     {/*</div>*/}
                     <div className="swipe-container">
+                        <p>Swipe Left Or Right!</p>
                         <div className="card-container">
                             {filteredUsers?.map((user) => (
                                  <TinderCard
