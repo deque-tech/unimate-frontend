@@ -190,17 +190,17 @@ const OnBoarding = () => {
                 onChange={handleChange}
               >
                 <option value="">Select your ethnicity</option>
-                <option value="arab">Arab</option>
-                <option value="southasian">South Asian</option>
-                <option value="eastasian">East Asian</option>
-                <option value="southeastasian">South-East Asian</option>
-                <option value="black">Black or African American</option>
-                <option value="hispanic">Hispanic or Latino</option>
-                <option value="white">White</option>
-                <option value="native">Native American or Alaska Native</option>
-                <option value="pacific">
-                  Native Hawaiian or Other Pacific Islander
-                </option>
+                <option value="Arab">Arab</option>
+              <option value="South Asian">South Asian</option>
+              <option value="East Asian">East Asian</option>
+              <option value="South-East Asian">South-East Asian</option>
+              <option value="Black">Black</option>
+              <option value="Hispanic/Latino">Hispanic/Latino</option>
+              <option value="White">White</option>
+              <option value="Native">Native American or Alaska Native</option>
+              <option value="Pacific">
+                Native Hawaiian or Other Pacific Islander
+              </option>
                 <option value="other">Other</option>
               </select>
             </section>
@@ -367,18 +367,17 @@ const OnBoarding = () => {
             >
               <option value="">Pick a ethnicity interest</option>
               <option value="everyone">Everyone</option>
-              <option value="arab">Arab</option>
-              <option value="southasian">South Asian</option>
-              <option value="eastasian">East Asian</option>
-              <option value="southeastasian">South-East Asian</option>
-              <option value="black">Black or African American</option>
-              <option value="hispanic">Hispanic or Latino</option>
-              <option value="white">White</option>
-              <option value="native">Native American or Alaska Native</option>
-              <option value="pacific">
+              <option value="Arab">Arab</option>
+              <option value="South Asian">South Asian</option>
+              <option value="East Asian">East Asian</option>
+              <option value="South-East Asian">South-East Asian</option>
+              <option value="Black">Black</option>
+              <option value="Hispanic/Latino">Hispanic/Latino</option>
+              <option value="White">White</option>
+              <option value="Native">Native American or Alaska Native</option>
+              <option value="Pacific">
                 Native Hawaiian or Other Pacific Islander
               </option>
-              <option value="other">Other</option>
             </select>
 
             <select
