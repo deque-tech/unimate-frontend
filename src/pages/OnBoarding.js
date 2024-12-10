@@ -217,38 +217,38 @@ const OnBoarding = () => {
                 onChange={handleChange}
               >
                 <option value="">Select your major</option>
-                <option value="arab">Arab Crossroads Studies</option>
-                <option value="artHistory">Art and Art History</option>
-                <option value="arts">Arts and Humanities Colloquia</option>
-                <option value="bioengineering">Bioengineering</option>
-                <option value="biology">Biology</option>
-                <option value="business">
+                <option value="Arab Crossroads Studies">Arab Crossroads Studies</option>
+                <option value="Art and Art History">Art and Art History</option>
+                <option value="Arts and Humanities Colloquia">Arts and Humanities Colloquia</option>
+                <option value="Bioengineering">Bioengineering</option>
+                <option value="Biology">Biology</option>
+                <option value="Business">
                   Business, Organizations and Society
                 </option>
-                <option value="chemsitry">Chemistry</option>
-                <option value="civil">Civil Engineering</option>
-                <option value="copmuterEng">Computer Engineering</option>
-                <option value="compSci">Computer Science</option>
-                <option value="econ">Economics</option>
-                <option value="elecEng">Electrical Engineering</option>
-                <option value="film">Film and New Media</option>
-                <option value="science">Foundations of Science</option>
-                <option value="generalEng">General Engineering</option>
-                <option value="history">History</option>
-                <option value="interactiveMedia">Interactive Media</option>
-                <option value="legal">Legal Studies</option>
-                <option value="literature">
+                <option value="Chemistry">Chemistry</option>
+                <option value="Civil Engineering">Civil Engineering</option>
+                <option value="Computer Engineering">Computer Engineering</option>
+                <option value="Computer Science">Computer Science</option>
+                <option value="Economics">Economics</option>
+                <option value="Electrical Engineering">Electrical Engineering</option>
+                <option value="Film and New Media">Film and New Media</option>
+                <option value="Foundations of Science">Foundations of Science</option>
+                <option value="General Engineering">General Engineering</option>
+                <option value="History">History</option>
+                <option value="Interactive Media<">Interactive Media</option>
+                <option value="Legal Studies">Legal Studies</option>
+                <option value="Literature and Creative Writing">
                   Literature and Creative Writing
                 </option>
-                <option value="maths">Mathematics</option>
-                <option value="mechanicalEng">Mechanical Engineering</option>
-                <option value="music">Music</option>
-                <option value="philosophy">Philosophy</option>
-                <option value="physics">Physics</option>
-                <option value="polisci">Political Science</option>
-                <option value="psych">Psychology</option>
-                <option value="srpp">Social Research and Public Policy</option>
-                <option value="theatre">Theatre</option>
+                <option value="Mathematics">Mathematics</option>
+                <option value="Mechanical Engineering">Mechanical Engineering</option>
+                <option value="Music">Music</option>
+                <option value="Philosophy">Philosophy</option>
+                <option value="Physics">Physics</option>
+                <option value="Political Science">Political Science</option>
+                <option value="Psychology">Psychology</option>
+                <option value="Social Research and Public Policy">Social Research and Public Policy</option>
+                <option value="Theatre">Theatre</option>
               </select>
             </section>
 
@@ -398,38 +398,38 @@ const OnBoarding = () => {
             >
               <option value="">Pick a major interest</option>
               <option value="everyone">Everyone</option>
-              <option value="arab">Arab Crossroads Studies</option>
-              <option value="artHistory">Art and Art History</option>
-              <option value="arts">Arts and Humanities Colloquia</option>
-              <option value="bioengineering">Bioengineering</option>
-              <option value="biology">Biology</option>
-              <option value="business">
-                Business, Organizations and Society
-              </option>
-              <option value="chemsitry">Chemistry</option>
-              <option value="civil">Civil Engineering</option>
-              <option value="copmuterEng">Computer Engineering</option>
-              <option value="compSci">Computer Science</option>
-              <option value="econ">Economics</option>
-              <option value="elecEng">Electrical Engineering</option>
-              <option value="film">Film and New Media</option>
-              <option value="science">Foundations of Science</option>
-              <option value="generalEng">General Engineering</option>
-              <option value="history">History</option>
-              <option value="interactiveMedia">Interactive Media</option>
-              <option value="legal">Legal Studies</option>
-              <option value="literature">
-                Literature and Creative Writing
-              </option>
-              <option value="maths">Mathematics</option>
-              <option value="mechanicalEng">Mechanical Engineering</option>
-              <option value="music">Music</option>
-              <option value="philosophy">Philosophy</option>
-              <option value="physics">Physics</option>
-              <option value="polisci">Political Science</option>
-              <option value="psych">Psychology</option>
-              <option value="srpp">Social Research and Public Policy</option>
-              <option value="theatre">Theatre</option>
+              <option value="Arab Crossroads Studies">Arab Crossroads Studies</option>
+                <option value="Art and Art History">Art and Art History</option>
+                <option value="Arts and Humanities Colloquia">Arts and Humanities Colloquia</option>
+                <option value="Bioengineering">Bioengineering</option>
+                <option value="Biology">Biology</option>
+                <option value="Business">
+                  Business, Organizations and Society
+                </option>
+                <option value="Chemistry">Chemistry</option>
+                <option value="Civil Engineering">Civil Engineering</option>
+                <option value="Computer Engineering">Computer Engineering</option>
+                <option value="Computer Science">Computer Science</option>
+                <option value="Economics">Economics</option>
+                <option value="Electrical Engineering">Electrical Engineering</option>
+                <option value="Film and New Media">Film and New Media</option>
+                <option value="Foundations of Science">Foundations of Science</option>
+                <option value="General Engineering">General Engineering</option>
+                <option value="History">History</option>
+                <option value="Interactive Media<">Interactive Media</option>
+                <option value="Legal Studies">Legal Studies</option>
+                <option value="Literature and Creative Writing">
+                  Literature and Creative Writing
+                </option>
+                <option value="Mathematics">Mathematics</option>
+                <option value="Mechanical Engineering">Mechanical Engineering</option>
+                <option value="Music">Music</option>
+                <option value="Philosophy">Philosophy</option>
+                <option value="Physics">Physics</option>
+                <option value="Political Science">Political Science</option>
+                <option value="Psychology">Psychology</option>
+                <option value="Social Research and Public Policy">Social Research and Public Policy</option>
+                <option value="Theatre">Theatre</option>
             </select>
 
             <label htmlFor="about">About me</label>
