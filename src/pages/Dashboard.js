@@ -258,7 +258,7 @@ const Dashboard = () => {
                                                 <div className="default-info">
                                                     <p><strong>Ethnicity:</strong> {user.ethnicity}</p>
                                                     <p><strong>Major:</strong> {user.major}</p>
-                                                    <p><strong>About Me:</strong> {user.about_me}</p>
+                                                    <p><strong>About Me:</strong> {user.about}</p>
                                                 </div>
                                             )}
 
