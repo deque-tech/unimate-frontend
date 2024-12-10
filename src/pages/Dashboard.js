@@ -237,7 +237,9 @@ const Dashboard = () => {
                     {/*    </div>*/}
                     {/*</div>*/}
                     <div className="swipe-container">
+                        <div className="instructions">
                         <p>Swipe Left Or Right!</p>
+                        </div>
                         <div className="card-container">
                             {filteredUsers?.map((user) => (
                                  <TinderCard
@@ -280,7 +282,7 @@ const Dashboard = () => {
                                 </TinderCard> 
                             ))}
                            
-                             <div className="swipe-info">
+                             <div className="instructions">
                                 {lastDirection ? <p>You swiped {lastDirection}</p> : <p/>}
                              </div>
                         </div>
