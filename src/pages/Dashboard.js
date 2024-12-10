@@ -268,8 +268,8 @@ const Dashboard = () => {
 
                                             {viewMore && (
                                                 <div className="view-more-content">
-                                                    <p><strong>Karaoke Song:</strong> {user.funPrompt1}</p>
-                                                    <p><strong>Superpower:</strong> {user.funPrompt2}</p>
+                                                    <p><strong>Grateful For:</strong> {user.funPrompt1}</p>
+                                                    <p><strong>Proud Of:</strong> {user.funPrompt2}</p>
                                                     <p><strong>Spontaneous Thing:</strong> {user.funPrompt3}</p>
                                                     <p><strong>Guilty Pleasure Show:</strong> {user.funPrompt4}</p>
                                                 </div>
