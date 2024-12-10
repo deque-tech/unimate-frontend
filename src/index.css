@@ -336,7 +336,7 @@ nav .logo-container .logo{
 .dashboard .swipe-info {
     position: absolute;
     bottom: -10px; /* Adjust this value to control how far below the card it should appear */
-    left: 70%; /* Position the left edge at the center of the card */
+    left: 65%; /* Position the left edge at the center of the card */
     transform: translateX(-50%); /* Center it horizontally relative to the card */
     width: fit-content; /* Ensure the width adapts to the content */
     text-align: center; /* Center align the text if needed */
