@@ -191,7 +191,9 @@ const OnBoarding = () => {
               >
                 <option value="">Select your ethnicity</option>
                 <option value="arab">Arab</option>
-                <option value="asian">Asian</option>
+                <option value="southasian">South Asian</option>
+                <option value="eastasian">East Asian</option>
+                <option value="southeastasian">South-East Asian</option>
                 <option value="black">Black or African American</option>
                 <option value="hispanic">Hispanic or Latino</option>
                 <option value="white">White</option>
@@ -366,7 +368,9 @@ const OnBoarding = () => {
               <option value="">Pick a ethnicity interest</option>
               <option value="everyone">Everyone</option>
               <option value="arab">Arab</option>
-              <option value="asian">Asian</option>
+              <option value="southasian">South Asian</option>
+              <option value="eastasian">East Asian</option>
+              <option value="southeastasian">South-East Asian</option>
               <option value="black">Black or African American</option>
               <option value="hispanic">Hispanic or Latino</option>
               <option value="white">White</option>
